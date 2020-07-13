@@ -9,7 +9,7 @@ I'm a Full-Time Full-Stack Developer working on a project that will allow teache
 You should follow me on Twitter as I'm mostly active there 
 [@juan_garcia3708](https://twitter.com/juan_garcia3708)
 
-✉️:me@juan.engineer
+✉️: me@juan.engineer
 See my portfolio at [here](https://juan.engineer)
 
 <!--
