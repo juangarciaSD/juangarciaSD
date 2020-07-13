@@ -10,7 +10,7 @@ You should follow me on Twitter as I'm mostly active there
 [@juan_garcia3708](https://twitter.com/juan_garcia3708)
 
 ✉️: me@juan.engineer
-See my portfolio at [here](https://juan.engineer)
+See my portfolio [here](https://juan.engineer)
 
 <!--
 **fangskillz/fangskillz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
