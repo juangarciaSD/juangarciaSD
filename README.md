@@ -14,6 +14,6 @@ You should follow me on Twitter as I'm mostly active there
 
 See my portfolio [here](https://juan.engineer)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fangskillz)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fangskillz)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fangskillz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
