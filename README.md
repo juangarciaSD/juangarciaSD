@@ -14,6 +14,6 @@ You should follow me on Twitter as I'm mostly active there
 
 See my portfolio [here](https://juan.engineer)
 
-| Information                            |
-| -------------------------------------: |
-| :musical_note: Music Playing : **Yes** |
+| Information                           |
+| ------------------------------------: |
+| :musical_note: Music Playing : **No** |
