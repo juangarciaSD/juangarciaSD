@@ -4,7 +4,7 @@ The name's Juan, I'm 19 years old, currently living in Tennessee, US.
 
 I'm a self-taught Software Engineer! 
 
-**A bit more about me...*
+**A bit more about me...**
 - Prev part-time @ [Zyndicate Labs](https://www.zyndicate.app)
 
 ### ⚡️ Skills 
