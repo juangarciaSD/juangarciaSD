@@ -11,6 +11,7 @@ I'm a self-taught Software Engineer!
 - specalized in:
     - Full-stack web development: **Typescript**, React, Javascript, HTML/CSS, and other related aspects of frontend development in production-grade enviroments 
 - expert in a variety of frontend frameworks/libraries: React, NextJS, styled-components, ExpressJS, etc.
+- production-grade experience with GraphQL, Apollo, PostgreSQL, etc. + their respective Full-Stack integrations in React
 - technologies and DevOps systems such as Firebase, AWS, GCP, etc.
 
 You should follow me on Twitter as I'm mostly active there 
