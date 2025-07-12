@@ -1,6 +1,6 @@
 ### Hi there, welcome to my GitHub profile 👋
 
-The name's Juan, I'm 21 years old, currently living in Tennessee, US.
+The name's Juan, I'm 22 years old, currently living in Tennessee, US.
 
 I'm a self-taught Software Engineer! 
 
