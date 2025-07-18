@@ -5,6 +5,7 @@ The name's Juan, I'm 22 years old, currently living in Tennessee, US.
 I'm a self-taught Software Engineer! 
 
 **A bit more about me...**
+- Currently building Payvo (finance tracker app - more to come soon)
 - Prev part-time @ [Zyndicate Labs](https://www.zyndicate.app)
 
 ### ⚡️ Skills 
